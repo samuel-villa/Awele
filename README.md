@@ -11,3 +11,6 @@ The program has been developed in three steps:
 * finally, adding a database connection allowing to store the player scores (V2).
 
 This repository contains the last version (V2).
+
+## GUI
+![Awele GUI](src/view/images/awele.png)
